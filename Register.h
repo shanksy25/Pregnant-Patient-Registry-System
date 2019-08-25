@@ -2,7 +2,6 @@
  * Register.h
  *
  *  Created on: Nov 5, 2018
- *      Author: l2hason
  */
 
 #ifndef REGISTER_H_
