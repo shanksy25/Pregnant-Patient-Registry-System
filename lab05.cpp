@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : lab05.cpp
-// Author      : Lior Hason
+// Author      : Adithya Shankar
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
