@@ -2,7 +2,6 @@
  * Register.cpp
  *
  *  Created on: Nov 5, 2018
- *      Author: l2hason
  */
 
 #include "Patient.h"
