@@ -2,7 +2,6 @@
  * Patient.cpp
  *
  *  Created on: Nov 5, 2018
- *      Author: l2hason
  */
 #include <iostream>
 #include <stdio.h>
